@@ -9,7 +9,7 @@ SpringBootでCRUD操作可能なREST APIを開発
 ## フロントエンド
 
 ```
-Vue.js＋ElementUIでモダンなSPA開発
+Vue.js＋ElementUIでSPA開発
 ```
 
 ## 認証機能
