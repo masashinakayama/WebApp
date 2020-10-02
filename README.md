@@ -1,19 +1,14 @@
 # About Project
 
-## バックエンド
+## WebApp : バックエンド
 
 ```
 SpringBootでCRUD操作可能なREST APIを開発
 ```
 
-## フロントエンド
+## WebApp-Client : フロントエンド
 
 ```
 Vue.js＋ElementUIでSPA開発
-```
-
-## 認証機能
-
-```
 Firebaseで認証機能の作成
 ```
